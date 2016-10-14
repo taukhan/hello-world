@@ -1,2 +1,2 @@
-# System.MATH
+# System.Math
 Project at GitHub
